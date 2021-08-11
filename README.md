@@ -22,7 +22,7 @@ Passionate about Blockchain technology and cryptocurrencies trading, I feel real
 
 ### Connect with me:
 
-[<img align="left" alt="lcard.tk" width="26px" src="https://img.icons8.com/color/48/000000/globe--v1.png" />][website]
+<!-- [<img align="left" alt="lcard.tk" width="26px" src="https://img.icons8.com/color/48/000000/globe--v1.png" />][website] -->
 [<img align="left" alt="lusitano_luis | Twitter" width="26px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
 [<img align="left" alt="Pereira Vaz Luis | LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="luis_lusitano | Instagram" width="26px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
@@ -64,7 +64,7 @@ Passionate about Blockchain technology and cryptocurrencies trading, I feel real
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lutenruto&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8)
 
-![Lutenruto's GitHub stats](https://github-readme-stats.vercel.app/api?username=lutenruto&show_icons=true&theme=radical)
+![Lutenruto's GitHub stats](https://github-readme-stats.vercel.app/api?username=lutenruto&show_icons=true&hide_border=true&theme=radical)
 
 [website]: //
 [twitter]: https://twitter.com/lusitano_luis
