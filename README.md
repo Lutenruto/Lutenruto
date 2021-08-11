@@ -23,9 +23,9 @@ Passionate about Blockchain technology and cryptocurrencies trading, I feel real
 ### Connect with me:
 
 [<img align="left" alt="lcard.tk" width="26px" src="https://img.icons8.com/color/48/000000/globe--v1.png" />][website]
-[<img align="left" style="margin-left:0.5em" alt="lusitano_luis | Twitter" width="26px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
-[<img align="left" style="margin-left:0.5em" alt="Pereira Vaz Luis | LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" style="margin-left:0.5em" alt="luis_lusitano | Instagram" width="26px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="lusitano_luis | Twitter" width="26px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
+[<img align="left" alt="Pereira Vaz Luis | LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="luis_lusitano | Instagram" width="26px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
 <br />
 <br />
@@ -35,23 +35,23 @@ Passionate about Blockchain technology and cryptocurrencies trading, I feel real
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" style="margin-left:0.5em" alt="JetBrains Suite" width="26px" src="https://nsa40.casimages.com/img/2021/08/10/210810112809551851.png" />
-<img align="left" style="margin-left:0.5em" alt="Solidity" width="26px" src="https://nsa40.casimages.com/img/2021/08/10/210810112543288671.png"/>
-<img align="left" style="margin-left:0.5em" alt="Tezos" width="26px" src="https://nsa40.casimages.com/img/2021/08/10/210810111602587028.png"/>
-<img align="left" style="margin-left:0.5em" alt="Type Script" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"/>
-<img align="left" style="margin-left:0.5em" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" style="margin-left:0.5em" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" style="margin-left:0.5em" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" style="margin-left:0.5em" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" style="margin-left:0.5em" alt="MongoDB" width="26px" src="https://nsa40.casimages.com/img/2021/08/10/210810114311388696.png" />
-<img align="left" style="margin-left:0.5em" alt="SQL" width="26px" src="https://nsa40.casimages.com/img/2021/08/10/210810114413172539.png" />
-<img align="left" style="margin-left:0.5em" alt="MySQL" width="26px" src="https://nsa40.casimages.com/img/2021/08/10/210810114731720640.png" />
-<img align="left" style="margin-left:0.5em" alt="Git" width="26px" src="https://nsa40.casimages.com/img/2021/08/10/210810115611420189.png" />
-<img align="left" style="margin-left:0.5em" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" style="margin-left:0.5em" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" style="margin-left:0.5em" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" style="margin-left:0.5em" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" style="margin-left:0.5em" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="JetBrains Suite" width="26px" src="https://nsa40.casimages.com/img/2021/08/10/210810112809551851.png" />
+<img align="left" alt="Solidity" width="26px" src="https://nsa40.casimages.com/img/2021/08/10/210810112543288671.png"/>
+<img align="left" alt="Tezos" width="26px" src="https://nsa40.casimages.com/img/2021/08/10/210810111602587028.png"/>
+<img align="left" alt="Type Script" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"/>
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://nsa40.casimages.com/img/2021/08/10/210810114311388696.png" />
+<img align="left" alt="SQL" width="26px" src="https://nsa40.casimages.com/img/2021/08/10/210810114413172539.png" />
+<img align="left" alt="MySQL" width="26px" src="https://nsa40.casimages.com/img/2021/08/10/210810114731720640.png" />
+<img align="left" alt="Git" width="26px" src="https://nsa40.casimages.com/img/2021/08/10/210810115611420189.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
